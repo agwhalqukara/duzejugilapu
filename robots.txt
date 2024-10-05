@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://duzejugilapu.pages.dev/sitemap.xml
